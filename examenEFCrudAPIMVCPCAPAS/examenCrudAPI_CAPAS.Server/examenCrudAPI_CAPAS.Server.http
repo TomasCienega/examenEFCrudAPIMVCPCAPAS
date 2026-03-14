@@ -1,0 +1,6 @@
+@examenCrudAPI_CAPAS.Server_HostAddress = http://localhost:5117
+
+GET {{examenCrudAPI_CAPAS.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

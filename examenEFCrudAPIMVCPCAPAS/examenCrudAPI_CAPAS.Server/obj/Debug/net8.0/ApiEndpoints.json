@@ -1,0 +1,198 @@
+[
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.DepartamentoController",
+    "Method": "ListaDepartamentos",
+    "RelativePath": "api/Departamento/ListaDepartamento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[examenCrudAPI_CAPAS.Compartido.DTOs.DepartamentoDTO, examenCrudAPI_CAPAS.Compartido, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.EmpleadoController",
+    "Method": "EditarEmpleado",
+    "RelativePath": "api/Empleado/EditarEmpleado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empdto",
+        "Type": "examenCrudAPI_CAPAS.Compartido.DTOs.EmpleadoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "examenCrudAPI_CAPAS.Compartido.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.EmpleadoController",
+    "Method": "EstadoEmpleado",
+    "RelativePath": "api/Empleado/EditarEstado/{idEmp}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEmp",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.EmpleadoController",
+    "Method": "EliminarEmpleado",
+    "RelativePath": "api/Empleado/EliminarEmpleado/{idEmp}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEmp",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.EmpleadoController",
+    "Method": "GuardarEmpleado",
+    "RelativePath": "api/Empleado/GuardarEmpleado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empdto",
+        "Type": "examenCrudAPI_CAPAS.Compartido.DTOs.EmpleadoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "examenCrudAPI_CAPAS.Compartido.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.EmpleadoController",
+    "Method": "ListaDepartamentosByIdDep",
+    "RelativePath": "api/Empleado/ListaDepartamentobyId/{idDep}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDep",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[examenCrudAPI_CAPAS.Compartido.DTOs.EmpleadoDTO, examenCrudAPI_CAPAS.Compartido, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.EmpleadoController",
+    "Method": "ListaEmpleados",
+    "RelativePath": "api/Empleado/ListaEmpleado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[examenCrudAPI_CAPAS.Compartido.DTOs.EmpleadoDTO, examenCrudAPI_CAPAS.Compartido, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "examenCrudAPI_CAPAS.Server.Controllers.EmpleadoController",
+    "Method": "ObtenerEmpleado",
+    "RelativePath": "api/Empleado/ObtenerEmpleado/{idEmp}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEmp",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "examenCrudAPI_CAPAS.Compartido.DTOs.EmpleadoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

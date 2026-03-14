@@ -1,0 +1,12 @@
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\bin\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.deps.json
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\bin\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.dll
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\bin\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.pdb
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.AssemblyInfoInputs.cache
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.AssemblyInfo.cs
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.sourcelink.json
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.dll
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\refint\examenCrudAPI_CAPAS.Compartido.dll
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\examenCrudAPI_CAPAS.Compartido.pdb
+C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Compartido\obj\Debug\net8.0\ref\examenCrudAPI_CAPAS.Compartido.dll
