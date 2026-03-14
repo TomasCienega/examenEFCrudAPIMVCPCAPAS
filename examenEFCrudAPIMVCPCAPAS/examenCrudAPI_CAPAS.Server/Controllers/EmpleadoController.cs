@@ -56,7 +56,8 @@ namespace examenCrudAPI_CAPAS.Server.Controllers
             {
                 var _listaDTO = new List<EmpleadoDTO>();
                 var _listaBD = await _context.Empleados.
-                    FromSqlRaw("exec sp_ListarEmpleadoPorIdDep {0}", idDep).
+                    FromSqlRaw("exec sp_ListarEmpleadoPorIdDep {0}", idDep == 0 ? null : idDep).
+                    OrderByDescending(a => a.Activo).
                     ToListAsync();
                 foreach (var emps in _listaBD)
                 {

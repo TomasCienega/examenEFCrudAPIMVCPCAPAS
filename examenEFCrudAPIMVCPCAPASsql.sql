@@ -24,9 +24,9 @@ create table Empleado
 insert into Empleado(nombreEmpleado,idDepartamento)values('Liz',4),('Adrian',5)
 select * from Empleado
 
-create procedure sp_ListarEmpleadoPorIdDep
+alter procedure sp_ListarEmpleadoPorIdDep
 (
-	@idDepartamento int
+	@idDepartamento int = null
 )
 as
 begin
@@ -34,7 +34,8 @@ begin
 	from Empleado e
 	inner join Departamento d
 	on e.idDepartamento = d.idDepartamento
-	where d.idDepartamento = @idDepartamento
+	where d.idDepartamento = isnull(@idDepartamento,d.idDepartamento)
+
 	order by e.activo desc
 end
 

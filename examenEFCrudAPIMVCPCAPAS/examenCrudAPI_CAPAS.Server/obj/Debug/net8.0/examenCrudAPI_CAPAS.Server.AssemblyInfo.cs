@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examenCrudAPI_CAPAS.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91eb08f5609b0a9fe87f8dff7139e4e006641d22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aef039f9922e3e7ea021cfadafc8789f8a217060")]
 [assembly: System.Reflection.AssemblyProductAttribute("examenCrudAPI_CAPAS.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examenCrudAPI_CAPAS.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
