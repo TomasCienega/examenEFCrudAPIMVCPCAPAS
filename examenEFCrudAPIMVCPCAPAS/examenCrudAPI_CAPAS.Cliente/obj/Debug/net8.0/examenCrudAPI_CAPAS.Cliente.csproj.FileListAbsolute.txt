@@ -26,7 +26,6 @@ C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\exame
 C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Cliente\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Cliente\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Cliente\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Cliente\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Cliente\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Cliente\obj\Debug\net8.0\examenCrudAPI_CAPAS.Cliente.dll
 C:\Users\tomas\Downloads\EjerciciosDeProgramacion\examenEFCrudAPIMVCPCAPAS\examenEFCrudAPIMVCPCAPAS\examenCrudAPI_CAPAS.Cliente\obj\Debug\net8.0\refint\examenCrudAPI_CAPAS.Cliente.dll

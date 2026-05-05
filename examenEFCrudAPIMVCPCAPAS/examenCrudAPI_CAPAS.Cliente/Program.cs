@@ -11,7 +11,7 @@ builder.Services.AddHttpClient<IDepartamentoService, DepartamentoService>(client
     client.BaseAddress = new Uri(baseURL!)
 );
 builder.Services.AddHttpClient<IEmpleadoService, EmpleadoService>(client =>
-    client.BaseAddress = new Uri(baseURL)
+    client.BaseAddress = new Uri(baseURL!)
 );
 
 var app = builder.Build();

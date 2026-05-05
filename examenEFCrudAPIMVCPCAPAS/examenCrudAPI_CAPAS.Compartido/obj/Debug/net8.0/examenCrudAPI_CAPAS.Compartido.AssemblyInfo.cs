@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examenCrudAPI_CAPAS.Compartido")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aef039f9922e3e7ea021cfadafc8789f8a217060")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf19bc3d2b136f1d87108a4df8e5bb66dfc77a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("examenCrudAPI_CAPAS.Compartido")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examenCrudAPI_CAPAS.Compartido")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
