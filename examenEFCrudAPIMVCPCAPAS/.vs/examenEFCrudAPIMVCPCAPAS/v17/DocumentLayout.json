@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F39722D-6024-4A85-B402-C5F5D877B217}|examenCrudAPI_CAPAS.Server\\examenCrudAPI_CAPAS.Server.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudapimvcpcapas\\examenefcrudapimvcpcapas\\examencrudapi_capas.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F39722D-6024-4A85-B402-C5F5D877B217}|examenCrudAPI_CAPAS.Server\\examenCrudAPI_CAPAS.Server.csproj|solutionrelative:examencrudapi_capas.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6DE10EA-966C-45F7-9495-3C33C4B07BB4}|examenCrudAPI_CAPAS.Cliente\\examenCrudAPI_CAPAS.Cliente.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudapimvcpcapas\\examenefcrudapimvcpcapas\\examencrudapi_capas.cliente\\services\\implementaciones\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DE10EA-966C-45F7-9495-3C33C4B07BB4}|examenCrudAPI_CAPAS.Cliente\\examenCrudAPI_CAPAS.Cliente.csproj|solutionrelative:examencrudapi_capas.cliente\\services\\implementaciones\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2F39722D-6024-4A85-B402-C5F5D877B217}|examenCrudAPI_CAPAS.Server\\examenCrudAPI_CAPAS.Server.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudapimvcpcapas\\examenefcrudapimvcpcapas\\examencrudapi_capas.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F39722D-6024-4A85-B402-C5F5D877B217}|examenCrudAPI_CAPAS.Server\\examenCrudAPI_CAPAS.Server.csproj|solutionrelative:examencrudapi_capas.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F39722D-6024-4A85-B402-C5F5D877B217}|examenCrudAPI_CAPAS.Server\\examenCrudAPI_CAPAS.Server.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudapimvcpcapas\\examenefcrudapimvcpcapas\\examencrudapi_capas.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F39722D-6024-4A85-B402-C5F5D877B217}|examenCrudAPI_CAPAS.Server\\examenCrudAPI_CAPAS.Server.csproj|solutionrelative:examencrudapi_capas.server\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmpleadoController.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\examenCrudAPI_CAPAS.Cliente\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "examenCrudAPI_CAPAS.Cliente\\Controllers\\EmpleadoController.cs",
@@ -42,12 +46,11 @@
               "RelativeToolTip": "examenCrudAPI_CAPAS.Cliente\\Controllers\\EmpleadoController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T21:01:42.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T21:01:42.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmpleadoDTOVM.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\examenCrudAPI_CAPAS.Cliente\\ViewModel\\EmpleadoDTOVM.cs",
               "RelativeDocumentMoniker": "examenCrudAPI_CAPAS.Cliente\\ViewModel\\EmpleadoDTOVM.cs",
@@ -55,37 +58,36 @@
               "RelativeToolTip": "examenCrudAPI_CAPAS.Cliente\\ViewModel\\EmpleadoDTOVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T21:01:28.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T21:01:28.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmpleadoService.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\examenCrudAPI_CAPAS.Cliente\\Services\\Implementaciones\\EmpleadoService.cs",
               "RelativeDocumentMoniker": "examenCrudAPI_CAPAS.Cliente\\Services\\Implementaciones\\EmpleadoService.cs",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\examenCrudAPI_CAPAS.Cliente\\Services\\Implementaciones\\EmpleadoService.cs",
               "RelativeToolTip": "examenCrudAPI_CAPAS.Cliente\\Services\\Implementaciones\\EmpleadoService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T01:06:26.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T01:06:26.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EmpleadoController.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\examenCrudAPI_CAPAS.Server\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "examenCrudAPI_CAPAS.Server\\Controllers\\EmpleadoController.cs",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\examenCrudAPI_CAPAS.Server\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "examenCrudAPI_CAPAS.Server\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T00:58:36.411Z"
+              "WhenOpened": "2026-03-17T00:58:36.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudAPIMVCPCAPAS\\examenEFCrudAPIMVCPCAPAS\\examenCrudAPI_CAPAS.Server\\Program.cs",
               "RelativeDocumentMoniker": "examenCrudAPI_CAPAS.Server\\Program.cs",
@@ -93,8 +95,7 @@
               "RelativeToolTip": "examenCrudAPI_CAPAS.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T00:54:06.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T00:54:06.256Z"
             }
           ]
         }
